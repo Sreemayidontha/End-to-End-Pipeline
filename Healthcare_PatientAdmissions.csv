@@ -1,0 +1,101 @@
+﻿AdmissionID,PatientID,PatientName,Gender,Age,Diagnosis,Department,Doctor,AdmissionDate,DischargeDate,HospitalName,TotalCost
+A1001,P041,Aisha Sharma,Female,32,Migraine,Orthopedics,Dr. Rahul Singh,2025-07-12,2025-07-14,Apollo City Hospital,10174
+A1002,P028,Mary Sharma,Male,28,Migraine,Psychiatry,Dr. Meera Patel,2024-07-22,2024-07-31,St. Mary Health Center,7373
+A1003,P015,Hassan Das,Female,1,Fracture,Pulmonology,Dr. Ankit Verma,2024-06-08,2024-06-12,Green Valley Clinic,13009
+A1004,P022,Aisha Sharma,Female,13,Diabetes,Dermatology,Dr. Sneha Mehta,2025-04-15,2025-04-24,CityCare Hospital,2545
+A1005,P025,Rahul Das,Female,81,Flu,Dermatology,Dr. Kavya Rao,2024-03-12,2024-03-13,Apollo City Hospital,11334
+A1006,P015,Fatima Sharma,Male,13,Skin Allergy,Oncology,Dr. Mohan Reddy,2025-01-08,2025-01-11,Apollo City Hospital,6565
+A1007,P023,Michael Mehta,Female,90,Pneumonia,General Medicine,Dr. Arjun Nair,2024-09-07,2024-09-10,St. Mary Health Center,8073
+A1008,P025,Karan Mehta,Male,88,Diabetes,Cardiology,Dr. Kavya Rao,2024-11-19,2024-11-26,CityCare Hospital,4886
+A1009,P005,Michael Das,Female,28,Gastritis,Pulmonology,Dr. Mohan Reddy,2024-09-28,2024-10-01,Sunrise Medical Center,4540
+A1010,P048,Aarav Das,Female,75,Skin Allergy,General Medicine,Dr. Priya Das,2024-08-12,2024-08-15,Green Valley Clinic,8848
+A1011,P032,Rahul Sharma,Male,20,Fracture,Pulmonology,Dr. Rahul Singh,2025-01-25,2025-02-04,Lifeline Hospital,8168
+A1012,P034,Karan Das,Male,88,Pneumonia,Psychiatry,Dr. Sneha Mehta,2024-12-14,2024-12-16,Apollo City Hospital,5308
+A1013,P028,Sita Kumar,Male,34,Depression,Orthopedics,Dr. Rahul Singh,2024-11-01,2024-11-10,Apollo City Hospital,10477
+A1014,P013,David Singh,Male,70,Depression,Cardiology,Dr. Ankit Verma,2024-01-20,2024-01-22,Lifeline Hospital,6447
+A1015,P020,Priya Sharma,Male,73,Pneumonia,Neurology,Dr. Mohan Reddy,2025-06-29,2025-07-02,CityCare Hospital,2603
+A1016,P043,Ananya Das,Male,34,Depression,General Medicine,Dr. Priya Das,2025-07-06,2025-07-10,Sunrise Medical Center,12180
+A1017,P020,Ravi Mehta,Female,57,Depression,Gastroenterology,Dr. Rahul Singh,2024-08-18,2024-08-20,Sunrise Medical Center,6039
+A1018,P002,Emma Das,Male,76,Migraine,Cardiology,Dr. Rahul Singh,2025-10-08,2025-10-09,Apollo City Hospital,4250
+A1019,P005,Mary Singh,Male,66,Migraine,Oncology,Dr. Mohan Reddy,2025-07-06,2025-07-09,Sunrise Medical Center,12351
+A1020,P037,Emma Kumar,Male,61,Skin Allergy,Pediatrics,Dr. Rahul Singh,2025-03-17,2025-03-23,CityCare Hospital,7439
+A1021,P027,Hassan Mehta,Male,87,Pneumonia,Cardiology,Dr. Priya Das,2024-12-13,2024-12-15,Apollo City Hospital,4573
+A1022,P013,Michael Das,Female,18,Skin Allergy,Orthopedics,Dr. Sneha Mehta,2024-09-12,2024-09-14,Lifeline Hospital,7760
+A1023,P036,Aisha Sharma,Male,12,Migraine,Orthopedics,Dr. Priya Das,2025-05-07,2025-05-11,Lifeline Hospital,14666
+A1024,P026,Mary Patel,Female,1,Skin Allergy,Oncology,Dr. Mohan Reddy,2025-03-09,2025-03-18,Green Valley Clinic,11344
+A1025,P046,Ananya Patel,Male,38,Migraine,Cardiology,Dr. Meera Patel,2024-11-17,2024-11-18,Apollo City Hospital,1321
+A1026,P038,Ananya Das,Male,8,Depression,Neurology,Dr. Arjun Nair,2025-09-01,2025-09-03,CityCare Hospital,11562
+A1027,P016,Ravi Sharma,Male,75,Flu,Cardiology,Dr. Rahul Singh,2025-08-20,2025-08-30,Lifeline Hospital,9065
+A1028,P021,Karan Patel,Female,31,Asthma,Pulmonology,Dr. Arjun Nair,2025-10-22,2025-10-27,Apollo City Hospital,7991
+A1029,P021,Rahul Sharma,Female,80,Flu,Neurology,Dr. Rahul Singh,2024-08-06,2024-08-15,St. Mary Health Center,4845
+A1030,P009,Sophia Sharma,Male,48,Asthma,Orthopedics,Dr. Mohan Reddy,2024-11-05,2024-11-15,St. Mary Health Center,13723
+A1031,P042,Liam Sharma,Female,85,Pneumonia,Orthopedics,Dr. Sneha Mehta,2024-04-19,2024-04-28,CityCare Hospital,3046
+A1032,P018,Fatima Das,Male,44,Migraine,Oncology,Dr. Mohan Reddy,2024-02-22,2024-02-24,Green Valley Clinic,10892
+A1033,P028,Karan Sharma,Male,43,Fracture,Oncology,Dr. Arjun Nair,2025-03-28,2025-04-06,Apollo City Hospital,12061
+A1034,P028,Aarav Sharma,Male,10,Fracture,Psychiatry,Dr. Meera Patel,2025-08-19,2025-08-28,Green Valley Clinic,2926
+A1035,P028,David Sharma,Female,47,Hypertension,Dermatology,Dr. Kavya Rao,2024-09-12,2024-09-14,Apollo City Hospital,6294
+A1036,P050,Aarav Kumar,Male,31,Fracture,Orthopedics,Dr. Priya Das,2024-07-02,2024-07-08,CityCare Hospital,13318
+A1037,P027,Priya Singh,Male,90,Pneumonia,Pulmonology,Dr. Meera Patel,2024-08-15,2024-08-19,Lifeline Hospital,13878
+A1038,P030,Sophia Singh,Male,29,Hypertension,Pediatrics,Dr. Priya Das,2024-10-12,2024-10-14,Green Valley Clinic,13170
+A1039,P018,Sophia Mehta,Female,87,Depression,Dermatology,Dr. Meera Patel,2024-09-24,2024-09-27,CityCare Hospital,10012
+A1040,P017,Mary Sharma,Female,45,Diabetes,Pulmonology,Dr. Rahul Singh,2025-08-13,2025-08-17,Lifeline Hospital,4673
+A1041,P003,Elena Sharma,Male,47,Skin Allergy,Neurology,Dr. Ankit Verma,2024-11-17,2024-11-19,St. Mary Health Center,12292
+A1042,P020,Liam Singh,Female,42,Skin Allergy,Oncology,Dr. Arjun Nair,2025-03-06,2025-03-13,Sunrise Medical Center,11597
+A1043,P048,Sita Das,Female,52,Depression,Cardiology,Dr. Sneha Mehta,2024-08-03,2024-08-10,Green Valley Clinic,13373
+A1044,P038,Noah Mehta,Female,60,Gastritis,Gastroenterology,Dr. Kavya Rao,2025-04-29,2025-05-02,St. Mary Health Center,11294
+A1045,P006,Fatima Das,Female,12,Migraine,Oncology,Dr. Kavya Rao,2024-05-30,2024-05-31,Sunrise Medical Center,1257
+A1046,P016,Ananya Das,Male,59,Skin Allergy,General Medicine,Dr. Kavya Rao,2025-01-28,2025-02-05,Apollo City Hospital,7047
+A1047,P016,David Mehta,Male,14,Skin Allergy,Pediatrics,Dr. Arjun Nair,2025-06-14,2025-06-22,Apollo City Hospital,1322
+A1048,P036,Priya Sharma,Female,18,Gastritis,Psychiatry,Dr. Ankit Verma,2025-09-19,2025-09-28,Lifeline Hospital,7491
+A1049,P036,Hassan Patel,Female,58,Asthma,Pediatrics,Dr. Sneha Mehta,2025-05-11,2025-05-15,St. Mary Health Center,4999
+A1050,P029,Rahul Mehta,Female,31,Asthma,Dermatology,Dr. Ankit Verma,2024-03-23,2024-03-26,St. Mary Health Center,2971
+A1051,P015,Ravi Mehta,Male,28,Pneumonia,Pulmonology,Dr. Priya Das,2025-07-09,2025-07-17,Green Valley Clinic,7312
+A1052,P004,Michael Kumar,Female,75,Hypertension,General Medicine,Dr. Priya Das,2024-01-07,2024-01-13,Lifeline Hospital,5392
+A1053,P049,Ravi Kumar,Male,63,Migraine,Oncology,Dr. Priya Das,2024-01-30,2024-02-06,Lifeline Hospital,6007
+A1054,P043,Ravi Mehta,Male,60,Fracture,General Medicine,Dr. Meera Patel,2025-08-29,2025-09-08,Lifeline Hospital,11362
+A1055,P002,Rahul Mehta,Female,18,Gastritis,Orthopedics,Dr. Meera Patel,2025-01-23,2025-01-29,Green Valley Clinic,3967
+A1056,P030,Omar Singh,Female,36,Skin Allergy,Oncology,Dr. Rahul Singh,2024-01-20,2024-01-29,Lifeline Hospital,1353
+A1057,P023,Priya Mehta,Male,84,Hypertension,Cardiology,Dr. Kavya Rao,2024-01-21,2024-01-31,Sunrise Medical Center,2996
+A1058,P016,David Kumar,Male,73,Migraine,Gastroenterology,Dr. Sneha Mehta,2024-06-20,2024-06-30,Green Valley Clinic,10449
+A1059,P048,Aisha Patel,Female,14,Flu,Cardiology,Dr. Sneha Mehta,2025-01-19,2025-01-26,St. Mary Health Center,12214
+A1060,P013,Rahul Das,Male,14,Asthma,General Medicine,Dr. Rahul Singh,2024-02-12,2024-02-18,St. Mary Health Center,9228
+A1061,P028,Sophia Sharma,Female,2,Skin Allergy,Gastroenterology,Dr. Rahul Singh,2025-01-05,2025-01-13,Lifeline Hospital,12088
+A1062,P010,Elena Patel,Female,79,Depression,Gastroenterology,Dr. Mohan Reddy,2025-08-29,2025-09-03,Lifeline Hospital,5780
+A1063,P016,Rahul Singh,Female,32,Gastritis,General Medicine,Dr. Priya Das,2024-01-30,2024-02-07,Green Valley Clinic,14442
+A1064,P021,Sita Kumar,Male,46,Asthma,Dermatology,Dr. Sneha Mehta,2024-10-09,2024-10-18,St. Mary Health Center,666
+A1065,P034,Michael Sharma,Male,53,Gastritis,Psychiatry,Dr. Kavya Rao,2025-05-02,2025-05-10,Apollo City Hospital,7842
+A1066,P002,Rahul Singh,Male,52,Migraine,Oncology,Dr. Ankit Verma,2025-07-20,2025-07-29,Lifeline Hospital,6132
+A1067,P028,Aarav Singh,Female,90,Gastritis,Oncology,Dr. Sneha Mehta,2024-08-24,2024-08-26,Green Valley Clinic,12317
+A1068,P013,Omar Sharma,Male,25,Migraine,Gastroenterology,Dr. Sneha Mehta,2025-08-26,2025-09-04,Apollo City Hospital,10277
+A1069,P019,Aisha Patel,Female,30,Diabetes,Orthopedics,Dr. Sneha Mehta,2025-06-30,2025-07-03,CityCare Hospital,4994
+A1070,P003,Mary Das,Female,90,Fracture,Gastroenterology,Dr. Rahul Singh,2025-08-10,2025-08-15,CityCare Hospital,8190
+A1071,P031,Hassan Singh,Male,7,Asthma,Gastroenterology,Dr. Rahul Singh,2025-02-14,2025-02-22,CityCare Hospital,1713
+A1072,P037,Mary Patel,Male,73,Asthma,Neurology,Dr. Kavya Rao,2025-07-25,2025-08-01,CityCare Hospital,10433
+A1073,P039,Noah Patel,Female,58,Gastritis,Oncology,Dr. Priya Das,2025-08-05,2025-08-15,Green Valley Clinic,1486
+A1074,P040,Aisha Patel,Male,34,Pneumonia,Orthopedics,Dr. Kavya Rao,2025-07-19,2025-07-21,Sunrise Medical Center,3064
+A1075,P001,Elena Kumar,Female,38,Hypertension,Pediatrics,Dr. Sneha Mehta,2024-10-16,2024-10-24,Apollo City Hospital,1666
+A1076,P044,Priya Singh,Male,55,Pneumonia,Psychiatry,Dr. Kavya Rao,2024-06-01,2024-06-06,Apollo City Hospital,14043
+A1077,P010,Rahul Sharma,Male,40,Flu,General Medicine,Dr. Sneha Mehta,2024-05-07,2024-05-15,Lifeline Hospital,11783
+A1078,P020,Ravi Singh,Female,57,Pneumonia,General Medicine,Dr. Meera Patel,2024-11-26,2024-12-06,Lifeline Hospital,4602
+A1079,P002,Rahul Patel,Male,87,Asthma,General Medicine,Dr. Meera Patel,2025-04-26,2025-05-05,Sunrise Medical Center,11174
+A1080,P029,Karan Patel,Female,82,Gastritis,Neurology,Dr. Mohan Reddy,2025-02-22,2025-02-28,Green Valley Clinic,5760
+A1081,P043,Aisha Patel,Female,53,Gastritis,Oncology,Dr. Priya Das,2024-02-07,2024-02-15,St. Mary Health Center,1942
+A1082,P021,Karan Singh,Male,52,Depression,Cardiology,Dr. Mohan Reddy,2024-02-25,2024-02-29,Lifeline Hospital,8994
+A1083,P024,Noah Kumar,Female,7,Migraine,Oncology,Dr. Arjun Nair,2025-03-24,2025-04-01,Green Valley Clinic,2489
+A1084,P002,Noah Patel,Male,40,Depression,Cardiology,Dr. Priya Das,2024-08-18,2024-08-20,CityCare Hospital,8060
+A1085,P008,David Kumar,Female,66,Asthma,Pulmonology,Dr. Mohan Reddy,2024-09-06,2024-09-14,Lifeline Hospital,9531
+A1086,P010,Ravi Patel,Male,9,Asthma,Pulmonology,Dr. Ankit Verma,2024-09-30,2024-10-01,St. Mary Health Center,5134
+A1087,P047,Fatima Das,Female,20,Gastritis,Psychiatry,Dr. Mohan Reddy,2024-12-06,2024-12-15,Green Valley Clinic,12998
+A1088,P035,Ravi Kumar,Female,25,Migraine,General Medicine,Dr. Priya Das,2025-02-24,2025-02-25,Sunrise Medical Center,5713
+A1089,P048,Ananya Mehta,Female,50,Fracture,Gastroenterology,Dr. Meera Patel,2025-05-29,2025-06-08,Sunrise Medical Center,5939
+A1090,P007,Hassan Sharma,Female,2,Fracture,Pulmonology,Dr. Arjun Nair,2025-04-25,2025-04-30,CityCare Hospital,6046
+A1091,P040,Ravi Mehta,Male,43,Depression,Pulmonology,Dr. Ankit Verma,2025-05-14,2025-05-23,Apollo City Hospital,1088
+A1092,P040,Rahul Patel,Female,30,Pneumonia,Pulmonology,Dr. Rahul Singh,2024-04-12,2024-04-20,Apollo City Hospital,3225
+A1093,P045,Fatima Sharma,Male,42,Hypertension,Oncology,Dr. Ankit Verma,2025-03-17,2025-03-20,Green Valley Clinic,4500
+A1094,P034,Elena Das,Male,22,Fracture,Neurology,Dr. Priya Das,2024-09-03,2024-09-11,St. Mary Health Center,10054
+A1095,P010,Priya Kumar,Female,59,Asthma,Cardiology,Dr. Mohan Reddy,2025-07-13,2025-07-16,Green Valley Clinic,1710
+A1096,P029,Sophia Das,Female,82,Skin Allergy,Oncology,Dr. Mohan Reddy,2024-07-22,2024-07-29,Green Valley Clinic,14481
+A1097,P031,Aisha Patel,Female,74,Diabetes,General Medicine,Dr. Sneha Mehta,2024-10-29,2024-10-30,Apollo City Hospital,14099
+A1098,P043,Ravi Singh,Male,73,Hypertension,General Medicine,Dr. Mohan Reddy,2024-08-23,2024-09-02,Green Valley Clinic,13638
+A1099,P023,Priya Mehta,Male,80,Asthma,Orthopedics,Dr. Rahul Singh,2025-10-23,2025-10-24,Apollo City Hospital,5561
+A1100,P029,Mary Das,Female,17,Pneumonia,Oncology,Dr. Ankit Verma,2025-03-01,2025-03-04,Apollo City Hospital,3789
